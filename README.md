@@ -1,5 +1,5 @@
 <p align="center">
-<img width="512" alt="ShortcutIcon" src="https://github.com/yourworstnightmare1/packageexpander/assets/134671973/a24f1fb5-b445-4bd1-8acb-8435ad18c478">
+<img width="512" alt="packageexpander" src="https://github.com/user-attachments/assets/16805f3f-c3f8-4e12-8752-84ec0240a22c" />
 </p>
 
 <p align="center">- a ReBlock Projections curated-tool -</p>
