@@ -12,6 +12,6 @@
 packageExpander allows you to install applications stored in `.pkg` files on macOS without administrator privileges. This uses an oversight in the `pkgutil` function to expand the contents of the package and allow you to view its content, then using `tar` to actually extract the main `payload` that contains the contents of the package.
 
 > [!IMPORTANT]  
-> packageExpander does not work on all package files and some apps can break if this exploit is used. It is still recommended to just install the package normally instead of using this.
+> packageExpander does not work on all package files and some apps installed using this can break or not work properly if this exploit is used. It is still recommended to just install the package normally instead of using this, packageExpander is just more convenient.
 
 <br><br><br><br>This repository was originally imported from "yourworstnightmare1/packageexpander_legacy" created November 17, 2023 @ 9:59 AM CST.
