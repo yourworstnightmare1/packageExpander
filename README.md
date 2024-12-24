@@ -14,4 +14,7 @@ packageExpander allows you to install applications stored in `.pkg` files on mac
 > [!IMPORTANT]  
 > packageExpander does not work on all package files and some apps installed using this can break or not work properly if this exploit is used. It is still recommended to just install the package normally instead of using this, packageExpander is just more convenient.
 
+## Manual Guide
+To use packageExpander without our provided script, see [manual-guide.md](https://github.com/yourworstnightmare1/packageexpander/blob/manual-guide.md).
+
 <br><br><br><br>This repository was originally imported from "yourworstnightmare1/packageexpander_legacy" created November 17, 2023 @ 9:59 AM CST.
