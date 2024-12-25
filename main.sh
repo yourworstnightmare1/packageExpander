@@ -37,7 +37,7 @@ echo -e "\e[31m$iconpackageExpander\e[0m"
 echo -e "\e[31m\nWelcome to packageExpander!\e[0m"
 echo "Version $version | Build $build"
 
-read -n 1 -p "\nPress any key to continue."
+read -n 1 -p "Press any key to continue."
 clear
 
 echo "Enter the name of the package. It must be the exact filename."
@@ -59,5 +59,5 @@ echo "Extracting payload..."
 tar -xvf $appdir/$pkgname/Resources/Payload -C $appdir/payload_rip
 echo Completed extract
 echo Completed! Go to $appdir/payload_rip to see your app.
-read -n 1 -p "\nPress any key to exit."
+read -n 1 -p "Press any key to exit."
 exit
