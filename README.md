@@ -17,4 +17,7 @@ packageExpander allows you to install applications stored in `.pkg` files on mac
 ## Manual Guide
 To use packageExpander without our provided script, see [manual-guide.md](https://github.com/yourworstnightmare1/packageexpander/blob/main/manual-guide.md).
 
+## System Requirements
+You must be on at least **macOS 14.6** to use packageExpander GUI Edition. If you're on an older macOS release, you must use the CLI edition.
+
 <br><br><br><br>This repository was originally imported from "yourworstnightmare1/packageexpander_legacy" created November 17, 2023 @ 9:59 AM CST.
